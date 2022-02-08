@@ -1,4 +1,8 @@
-header {
+body{
+  background-color: burlywood;
+}
+
+.main-header {
   padding: 30px;
   text-align: center;
   background-color: aqua;
