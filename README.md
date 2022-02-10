@@ -1,3 +1,4 @@
+ new_feature_branch
 
 # First-Microverse-Project
 
@@ -12,7 +13,7 @@
 
 
 
-👤 **Author1**
+👤 Dinma-Faith
 
 - GitHub: [@githubhandle](https://github.com/Dinma-Faith)
 - Twitter: [@twitterhandle](https://twitter.com/paul_dinma)
@@ -28,3 +29,10 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+# First-Microverse-Project_
+A-Microverse-Day2-Project_
+Built-with-HTMLandCSS_
+First-Project-In-Module-1_
+"Hello-Microverse-Page"!
+  main
